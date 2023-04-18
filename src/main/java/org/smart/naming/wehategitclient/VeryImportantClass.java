@@ -2,8 +2,8 @@ package org.smart.naming.wehategitclient;
 
 /**
  *
- * @author bearded dude
+ * @author G. Chaucer
  */
-public class MindControlFacility {
+public class VeryImportantClass {
     
 }
