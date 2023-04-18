@@ -2,7 +2,7 @@ package org.smart.naming.wehategitclient;
 
 /**
  *
- * @author LVK
+ * @author who cares
  */
 public class Mind {
     private String name;
