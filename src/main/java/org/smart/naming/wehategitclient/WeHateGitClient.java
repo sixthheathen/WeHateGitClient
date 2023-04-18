@@ -7,6 +7,6 @@ package org.smart.naming.wehategitclient;
 public class WeHateGitClient {
 
     public static void main(String[] args) {
-        Mind xorMind = new Mind();
+        Mind xorMind = new Mind("xor");
     }
 }
