@@ -10,4 +10,6 @@ public class Mind {
     public Mind(String name) {
         this.name = name;
     }
+    
+    // here's a margo-specific feature! 
 }
